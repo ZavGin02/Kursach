@@ -1,0 +1,15 @@
+13:56:56 [INFO] Starting gpu_temp_reader
+13:56:56 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 44 °C, Load: 1%
+13:56:57 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 0%
+13:56:58 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 0%
+13:56:59 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 6%
+13:57:01 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 1%
+13:57:02 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 0%
+13:57:03 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 0%
+13:57:04 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 10%
+13:57:05 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 2%
+13:57:06 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 3%
+13:57:07 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 4%
+13:57:09 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 0%
+13:57:10 [INFO] GPU: NVIDIA GeForce RTX 4060 Temperature: 43 °C, Load: 0%
+13:57:10 [INFO] Exiting gpu_temp_reader

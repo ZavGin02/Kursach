@@ -1,0 +1,16 @@
+[package]
+name = "gpu_temp_reader"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+
+[[bin]]
+name = "gpu_temp_reader"
+path = "src/main.rs"
+
+[dependencies]
+i2cdev = "0.5"
+crossterm = "0.25"
+log = "0.4.26"
+simplelog = "0.12"
+regex = "1.5"

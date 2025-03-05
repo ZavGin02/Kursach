@@ -1,0 +1,11 @@
+C:\Users\gekas\Desktop\Gpu_tem_reader\target\debug\deps\liblibc-6fd02152a4aa5ea8.rmeta: C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\lib.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\macros.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\primitives.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\mod.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\msvc\mod.rs
+
+C:\Users\gekas\Desktop\Gpu_tem_reader\target\debug\deps\liblibc-6fd02152a4aa5ea8.rlib: C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\lib.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\macros.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\primitives.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\mod.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\msvc\mod.rs
+
+C:\Users\gekas\Desktop\Gpu_tem_reader\target\debug\deps\libc-6fd02152a4aa5ea8.d: C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\lib.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\macros.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\primitives.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\mod.rs C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\msvc\mod.rs
+
+C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\lib.rs:
+C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\macros.rs:
+C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\primitives.rs:
+C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\mod.rs:
+C:\Users\gekas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.170\src\windows\msvc\mod.rs:
